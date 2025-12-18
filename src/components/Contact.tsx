@@ -167,10 +167,10 @@ const Contact = () => {
               Prefer email? Reach us directly at
             </p>
             <a
-              href="mailto:hello@unitystudio.dev"
+              href="mailto:contact@immernova.com"
               className="text-primary hover:text-primary-glow font-semibold text-lg transition-colors"
             >
-              hello@unitystudio.dev
+              contact@immernova.com
             </a>
           </div>
         </div>
