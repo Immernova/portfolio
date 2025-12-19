@@ -4,9 +4,9 @@ const Footer = () => {
   const currentYear = new Date().getFullYear();
 
   const socialLinks = [
-    { icon: Github, href: '#', label: 'GitHub' },
-    { icon: Linkedin, href: '#', label: 'LinkedIn' },
-    { icon: Twitter, href: '#', label: 'Twitter' },
+    { icon: Github, href: 'https://github.com/Immernova', label: 'GitHub' },
+    { icon: Linkedin, href: 'https://uk.linkedin.com/company/immernova-ltd', label: 'LinkedIn' },
+    { icon: Twitter, href: 'https://x.com/immernova', label: 'Twitter' },
   ];
 
   const footerLinks = [
